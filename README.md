@@ -4,7 +4,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues'>
-    Questions & CHallenges
-</p>
+<p align='center'><a href="https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues"><kbd> <br> Question & CHallenge <br> </kbd></a></p>
