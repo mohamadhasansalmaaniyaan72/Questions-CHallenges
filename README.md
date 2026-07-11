@@ -10,12 +10,12 @@
    </tr>
    
   <tr>
-    <td><a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues/2'>wmic.exe is disabled in Windows 11 Is there a way to get uuid without a command in cmd or powershell?</a></td><td><strong>Close</strong></td>
+    <td><a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues/2'>wmic.exe is disabled in Windows 11 Is there a way to get uuid without a command in cmd or powershell?</a></td><td><strong>Closed</strong></td>
   </tr>
   
    <tr>
      <td>
        <a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues/1'>Problem signing TRX cryptocurrency transaction</a>
-     </td><td><strong>Close</strong></td>
+     </td><td><strong>Closed</strong></td>
    </tr>
    </table>
