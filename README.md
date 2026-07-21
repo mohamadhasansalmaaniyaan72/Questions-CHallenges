@@ -6,7 +6,7 @@
     
    <tr>
      <td>
-       <a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues/3'>How to display the information inside the RadGridView (Telerik) to the user without delay, emptying and filling the list</a></td><td><strong>Open</strong></td>
+       <a href='https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues/3'>How to display the information inside the RadGridView (Telerik) to the user without delay, emptying and filling the list</a></td><td><strong>Closed</strong></td>
    </tr>
    
   <tr>
